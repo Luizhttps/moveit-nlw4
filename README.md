@@ -38,12 +38,11 @@ To check if your application is running, just open your browser using `http://lo
 
 ## :memo: License
 
-This project is under MIT license, for more details check [LICENSE][license]!
+This project is under MIT license!
 
 Made with by Luiz Otávio Mendes :wave: [GitHub][github]
 
 [github]: https://github.com/luizhttps
-[license]: https://cogumm.mit-license.org/
 [telegram]: https://t.me/luizotavio_ms
 [linkvercel]: https://#/
 [nextjs]: https://nextjs.org/
