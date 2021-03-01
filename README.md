@@ -27,12 +27,6 @@ This project was developed using the following technologies:
 Only perform the following steps:
 
 ```bash
-# 1. Clone this repository
-# $ git clone https://github.com/luizhttp/NextLevelWeek.git
-
-# 2. Accessing the directory.
-# $ cd 'NextLevelWeek/\#4\ NLW/ReactJS/moveit-next'
-
 # Running the program.
 $ yarn OR npm install
 
