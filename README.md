@@ -20,7 +20,9 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)][linkvercel]
+<a 
+    href="https://moveit-nlw4-qj8qjycrl-luizhttps.vercel.app" target="_blank">![Deploy with Vercel](https://vercel.com/button)
+</a> 
 
 ### ☕️ Who to use
 
